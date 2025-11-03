@@ -122,25 +122,22 @@
 <div>
   <p align="center">
 	<a href="https://github.com/lumisardy/Fast_API-Python ">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=Fast_API-Python&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/lumisardy/RetrofitPrimeraVez ">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=RetrofitPrimeraVez&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/lumisardy/IntegracionIA ">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=IntegracionIA&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/lumisardy/PruebaJuego">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=PruebaJuego&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/lumisardy/webContadores">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=webContadores&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/lumisardy/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/lumisardy/Python_exercises">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+		<a href="https://github.com/lumisardy/Python_exercises">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=Python_exercises&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 
   </p>
