@@ -133,9 +133,6 @@
     	<a href="https://github.com/lumisardy/PruebaJuego">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=PruebaJuego&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/lumisardy/webContadores">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=webContadores&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
 		<a href="https://github.com/lumisardy/Python_exercises">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lumisardy&repo=Python_exercises&theme=tokyonight" alt="GitHub Stats" />
     	</a>
