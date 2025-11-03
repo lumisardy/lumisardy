@@ -105,15 +105,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Actividad</h3></summary>
-
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lumisardy&theme=github	)](https://github.com/lumisardy/github-readme-activity-graph)
-
- 
-</details>
-
 <details><summary> <h3> :trophy: Trofeos </h3></summary>
 
 ----
