@@ -7,7 +7,7 @@
 <br>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -86,7 +86,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> 🔥 Racha</h3></summary>
 
 ----	
 
@@ -94,7 +94,7 @@
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 GitHub  Stats</h3></summary>
 
 ----
 	
@@ -108,7 +108,7 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<details><summary><h3>⚡ Actividad</h3></summary>
 
 ----
 	
@@ -117,7 +117,7 @@
  
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details><summary> <h3> :trophy: Trofeos </h3></summary>
 
 ----
 	
@@ -127,7 +127,7 @@
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: Mis repositorios </h3></summary>
 
 ----
 	
