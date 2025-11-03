@@ -143,7 +143,7 @@
 
 </br></br>
 	
-## 🐍 Juego de la serpiente comiendo mis contribuciones
+<!--## 🐍 Juego de la serpiente comiendo mis contribuciones
 	
 <p align="center">
   <img src="https://github.com/lumisardy/lumisardy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
