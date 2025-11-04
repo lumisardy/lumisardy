@@ -73,7 +73,7 @@
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Android studio" src="https://img.shields.io/badge/Andorid studio-%23000000.svg?style=plastic&logo=visual-studio-code&logoColor=white" /></a>
+    <a href="#"><img alt="Android studio" src="https://img.shields.io/badge/Android studio-%23000000.svg?style=plastic&logo=visual-studio-code&logoColor=white" /></a>
  </p>
 
 
