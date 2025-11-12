@@ -1,6 +1,8 @@
 <h1 align="center">Hola! soy aday/lumisardy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Programador Junior!;+Python+Kotlin;HTML+CSS;Java+C#+IA+y sumando"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=25&color=%23C8BE25&center=true&vCenter=true&width=600&height=100&lines=Programador%20Junior!;Python%20Kotlin;HTML%20CSS;Java%20C#;IA%20y%20sumando" alt="Typing SVG">
+</a>
 </p>
 
 
