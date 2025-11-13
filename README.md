@@ -21,6 +21,7 @@
 - :student: Sigo aprendiendo eso si!
 - :nerd_face: Y me gusta saber el por que de las cosas desde siempre (ya no se si es bueno o malo jaja)
 - :thinking: Y donde mas se aprende es trabajando y planteando nuevos problemas
+- <a href="https://publicweb-production-988e.up.railway.app/">Click aqui para ver mi historial en mi web</a>
 <br>
 
 
