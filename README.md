@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :school: ¡Hola! Soy Lumisardy, me gusta programar y empece por mi cuenta a explorar este mundillo 
+- :school: ¡Hola! Soy Aday, me gusta programar y empece por mi cuenta a explorar este mundillo 
 - :technologist: Lo que mas me mola es que me plantees un problema que esta a mi alcance pero complicado
 - :computer: ahora mismo estoy enfocado en aplicaciones moviles con Kotlin, IA con python y FastAPI
 - :student: Sigo aprendiendo eso si!
