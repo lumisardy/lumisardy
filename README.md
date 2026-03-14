@@ -1,4 +1,5 @@
 <h1 align="center">Hola! soy aday/lumisardy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=25&color=%23C8BE25&center=true&vCenter=true&width=600&height=100&lines=Programador%20Junior!;Python%20Kotlin;HTML%20CSS;Java%20C#;IA%20y%20sumando" alt="Typing SVG">
@@ -14,14 +15,14 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
+<h2 align="center"><a href="https://publicweb-production-988e.up.railway.app/" target="_blank">Click aqui para ver mi historial en mi web</a></h2>
 - :school: ¡Hola! Soy Aday, me gusta programar y empece por mi cuenta a explorar este mundillo 
 - :technologist: Lo que mas me mola es que me plantees un problema que esta a mi alcance pero complicado
 - :computer: ahora mismo estoy enfocado en aplicaciones moviles con Kotlin, IA con python y FastAPI
 - :student: Sigo aprendiendo eso si!
 - :nerd_face: Y me gusta saber el por que de las cosas desde siempre (ya no se si es bueno o malo jaja)
 - :thinking: Y donde mas se aprende es trabajando y planteando nuevos problemas
-- <a href="https://publicweb-production-988e.up.railway.app/" target="_blank">Click aqui para ver mi historial en mi web</a>
+
 <br>
 
 
