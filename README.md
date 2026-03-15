@@ -9,13 +9,15 @@
 
 <br>
 
+<h2 align="center"><a href="https://publicweb-production-988e.up.railway.app/" target="_blank">Click aqui para ver mi historial en mi web</a></h2>
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-<h2 align="center"><a href="https://publicweb-production-988e.up.railway.app/" target="_blank">Click aqui para ver mi historial en mi web</a></h2>
+
 - :school: ¡Hola! Soy Aday, me gusta programar y empece por mi cuenta a explorar este mundillo 
 - :technologist: Lo que mas me mola es que me plantees un problema que esta a mi alcance pero complicado
 - :computer: ahora mismo estoy enfocado en aplicaciones moviles con Kotlin, IA con python y FastAPI
