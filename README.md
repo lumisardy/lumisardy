@@ -9,7 +9,7 @@
 
 <br>
 
-<h2 align="center"><a href="https://publicweb-production-988e.up.railway.app/" target="_blank">Click aqui para ver mi historial en mi web</a></h2>
+<h2 align="center"><a href="https://publicweb-production-988e.up.railway.app/" target="_blank">Ver Pagina Web (Portfolio)</a></h2>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
