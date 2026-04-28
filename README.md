@@ -20,10 +20,10 @@
 <br><br>
 
 - :school: ¡Hola! Soy Aday, me gusta programar y empece por mi cuenta a explorar este mundillo 
-- :technologist: Lo que mas me mola es que me plantees un problema que esta a mi alcance pero complicado
+- :technologist: Lo que mas me gusta es que me plantees un problema complicado y que desconozca
 - :computer: ahora mismo estoy enfocado en aplicaciones moviles con Kotlin, IA con python y FastAPI
 - :student: Sigo aprendiendo eso si!
-- :nerd_face: Y me gusta saber el por que de las cosas desde siempre (ya no se si es bueno o malo jaja)
+- :nerd_face: Me gusta saber el por que de las cosas
 - :thinking: Y donde mas se aprende es trabajando y planteando nuevos problemas
 
 <br>
