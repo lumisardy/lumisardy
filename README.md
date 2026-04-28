@@ -10,6 +10,7 @@
 <br>
 
 <h2 align="center"><a href="https://publicweb-production-988e.up.railway.app/" target="_blank">Ver Pagina Web (Portfolio)</a></h2>
+<h3 align="center">"Puede tardar en cargar para que se levante la web no es que no funcione"</h3>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
