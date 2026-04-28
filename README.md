@@ -10,7 +10,7 @@
 <br>
 
 <h2 align="center"><a href="https://publicweb-production-988e.up.railway.app/" target="_blank">Ver Pagina Web (Portfolio)</a></h2>
-<h3 align="center">"Si esta caida la web no es que no funcione, espera unos 20s ha que se levante el servicio"</h3>
+<h3 align="center">"Si la web esta caida, no es que no funcione, espera unos 20s ha que se levante el servicio"</h3>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
