@@ -48,7 +48,7 @@
   
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -57,6 +57,14 @@
   &emsp;
    <a href="https://kotlinlang.org" target="_blank">
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.php.net" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
   </a>
 </p>
 
@@ -68,15 +76,111 @@
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css&logoColor=white">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  </a> 
+  </a>
+  &emsp;
+  <a href="https://react.dev" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-%2320232A.svg?style=plastic&logo=react&logoColor=61DAFB">
+  </a>
+  &emsp;
+  <a href="https://astro.build" target="_blank">
+    <img alt="Astro" src="https://img.shields.io/badge/Astro-%23BC52EE.svg?style=plastic&logo=astro&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://getbootstrap.com" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
+  </a>
   
 </p>
 
+
+### ⚙️ Backend
+<p align="center">
+  &emsp;
+  <a href="https://fastapi.tiangolo.com" target="_blank">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://flask.palletsprojects.com" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?style=plastic&logo=flask&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.mysql.com" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+</p>
+
+### 📱 Android
+<p align="center">
+  &emsp;
+  <a href="https://developer.android.com" target="_blank">
+    <img alt="Android" src="https://img.shields.io/badge/Android-%233DDC84.svg?style=plastic&logo=android&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://developer.android.com/compose" target="_blank">
+    <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=plastic&logo=jetpackcompose&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://square.github.io/retrofit/" target="_blank">
+    <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-%2348B983.svg?style=plastic&logo=square&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://firebase.google.com" target="_blank">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black">
+  </a>
+</p>
+
+### 🤖 IA y datos
+<p align="center">
+  &emsp;
+  <a href="https://ai.google.dev" target="_blank">
+    <img alt="Gemini" src="https://img.shields.io/badge/Gemini%20API-%238E75B2.svg?style=plastic&logo=googlegemini&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://docs.ultralytics.com" target="_blank">
+    <img alt="YOLO" src="https://img.shields.io/badge/YOLO-%23111F68.svg?style=plastic&logo=ultralytics&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://opencv.org" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=plastic&logo=opencv&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://numpy.org" target="_blank">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://jupyter.org" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://riverbankcomputing.com/software/pyqt/" target="_blank">
+    <img alt="PyQt" src="https://img.shields.io/badge/PyQt-%2341CD52.svg?style=plastic&logo=qt&logoColor=white">
+  </a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Otras herramientas
+<p align="center">
+  &emsp;
+  <a href="https://git-scm.com" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.shopify.com" target="_blank">
+    <img alt="Shopify" src="https://img.shields.io/badge/Shopify-%237AB55C.svg?style=plastic&logo=shopify&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.remotion.dev" target="_blank">
+    <img alt="Remotion" src="https://img.shields.io/badge/Remotion-%230B84F3.svg?style=plastic">
+  </a>
+  &emsp;
+  <a href="https://threejs.org" target="_blank">
+    <img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23000000.svg?style=plastic&logo=threedotjs&logoColor=white">
+  </a>
+</p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
