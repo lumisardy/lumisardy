@@ -152,8 +152,12 @@
 
 </br></br>
 	
-<!--## 🐍 Juego de la serpiente comiendo mis contribuciones
-	
+## 🐍 Juego de la serpiente comiendo mis contribuciones
+
 <p align="center">
-  <img src="https://github.com/lumisardy/lumisardy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lumisardy/lumisardy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lumisardy/lumisardy/output/github-snake.svg" />
+    <img alt="Serpiente comiendo mis contribuciones" src="https://raw.githubusercontent.com/lumisardy/lumisardy/output/github-snake.svg" />
+  </picture>
 </p>
