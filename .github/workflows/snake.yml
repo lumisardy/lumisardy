@@ -21,7 +21,6 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Token personal (secreto SNAKE_TOKEN) para contar repos privados; sin él usa el de la Action
           github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg

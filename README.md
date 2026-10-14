@@ -1,16 +1,16 @@
-<h1 align="center">¡Hola! Soy Aday / lumisardy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola! soy aday/lumisardy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=25&color=%23C8BE25&center=true&vCenter=true&width=600&height=100&lines=Programador%20Junior!;Python%20%C2%B7%20Kotlin;HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript;Java%20%C2%B7%20C%23;IA%20y%20sumando" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=25&color=%23C8BE25&center=true&vCenter=true&width=600&height=100&lines=Programador%20Junior!;Python%20Kotlin;HTML%20CSS%20JavaScript;Java%20C%23;IA%20y%20sumando" alt="Typing SVG">
 </a>
 </p>
 
 
 <br>
 
-<h2 align="center"><a href="https://publicweb-production-988e.up.railway.app/" target="_blank">Ver página web (Portfolio)</a></h2>
-<h3 align="center">"Si la web está caída no es que no funcione: espera unos 20 s a que se levante el servicio"</h3>
+<h2 align="center"><a href="https://publicweb-production-988e.up.railway.app/" target="_blank">Ver Pagina Web (Portfolio)</a></h2>
+<h3 align="center">"Si la web está caída, no es que no funcione, espera unos 20s a que se levante el servicio"</h3>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
@@ -20,9 +20,9 @@
 <br><br>
 
 - :school: ¡Hola! Soy Aday, me gusta programar y empecé por mi cuenta a explorar este mundillo 
-- :technologist: Lo que más me gusta es que me planteen un problema complicado que desconozca
+- :technologist: Lo que más me gusta es que me plantees un problema complicado y que desconozca
 - :computer: Ahora mismo estoy enfocado en aplicaciones móviles con Kotlin, IA con Python y FastAPI
-- :student: ¡Sigo aprendiendo, eso sí!
+- :student: Sigo aprendiendo eso sí!
 - :nerd_face: Me gusta saber el porqué de las cosas
 - :thinking: Y donde más se aprende es trabajando y planteando nuevos problemas
 
@@ -30,7 +30,7 @@
 
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> ¡Háblame!
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Háblame!
 <p align="center">
 	<a href="mailto:adayfernandez6@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/lumisardy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -102,7 +102,7 @@
 
 ----	
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=lumisardy&theme=tokyonight_duo" alt="Racha de lumisardy" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=lumisardy&theme=tokyonight_duo" alt="lumisardy" /></p>
 
 </details>
   
@@ -113,7 +113,7 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="lumisardy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lumisardy&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lumisardy&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Lenguajes más usados de lumisardy" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lumisardy&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="lumisardy" height="230px"/>
 <br/>
 
   <b>Note:</b> El ranking de lenguajes principales es solo una métrica de los lenguajes que componen mi código público y no refleja mi experiencia ni mi nivel de habilidad.
@@ -154,6 +154,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lumisardy/lumisardy/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lumisardy/lumisardy/output/github-snake.svg" />
-    <img alt="Serpiente comiendo mis contribuciones" src="https://raw.githubusercontent.com/lumisardy/lumisardy/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/lumisardy/lumisardy/output/github-snake.svg" />
   </picture>
 </p>
