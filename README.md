@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=25&color=%23C8BE25&center=true&vCenter=true&width=600&height=100&lines=Programador%20Junior!;Python%20Kotlin;HTML%20CSS%20JavaScript;Java%20C%23;IA%20y%20sumando" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=25&color=%23C8BE25&center=true&vCenter=true&width=600&height=100&lines=Python%20Kotlin;HTML%20CSS%20JavaScript;Java%20C%23;IA%20y%20sumando" alt="Typing SVG">
 </a>
 </p>
 
